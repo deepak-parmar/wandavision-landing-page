@@ -1,4 +1,4 @@
-!["Landing page screenshot"](./images/thumbnail.png)
+!["Landing page screenshot"](https://deepak-parmar.github.io/wandavision-landing-page/images/thumbnail.png)
 
 # **WandaVision** Landing Page for @TheOdinProject
 
